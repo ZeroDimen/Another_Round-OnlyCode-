@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcca23a3b3f523b43afe7c94a297d987, type: 3}
+  m_Name: Gamepad_Xbox
+  m_EditorClassIdentifier: Assembly-CSharp::GamepadIcons
+  button_north: {fileID: 21300000, guid: 3390e8024ec7eed409c5b9a4250aae7a, type: 3}
+  button_east: {fileID: 21300000, guid: b6cf9246f9fe5ee419cb86cd6afae175, type: 3}
+  button_south: {fileID: 21300000, guid: 814074e764f12864c80e7713c69ff044, type: 3}
+  button_west: {fileID: 21300000, guid: db73b292eecb5dc4bbdbc3134f16f8cb, type: 3}
+  left_stick: {fileID: 21300000, guid: 741977b9f29bdd0449df7807ca8e0674, type: 3}
+  left_bumper: {fileID: 21300000, guid: 1af24ebfbc6614741b5506eef66052d0, type: 3}
+  right_bumper: {fileID: 21300000, guid: 370e93ec357b89b4c946e012dbd06ecb, type: 3}
+  start_button: {fileID: 21300000, guid: 19d7a790375fd364d9359169958411c1, type: 3}
+  north_filled: {fileID: 21300000, guid: 3d75295e8c79f904285d44293513f5d8, type: 3}
+  east_filled: {fileID: 21300000, guid: 20acdf3da33fbca488bd1139fa5a70a3, type: 3}
+  south_filled: {fileID: 21300000, guid: 9304efaf057138941a18155e0a690164, type: 3}
+  west_filled: {fileID: 21300000, guid: 90fa18303ddab6a45a2bc0d2f70e802d, type: 3}

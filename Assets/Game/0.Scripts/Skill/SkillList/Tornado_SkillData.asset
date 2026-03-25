@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3120a201733387f4fad6f75a3919731f, type: 3}
+  m_Name: Tornado_SkillData
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  _ID: 1
+  _Name: Tornado
+  _Description: "\uAD11\uBC94\uC704\uD55C \uC601\uC5ED\uC5D0 \uD68C\uC804\uD558\uB294
+    \uAC15\uB825\uD55C \uBC14\uB78C\uC744 \uC18C\uD658\uD569\uB2C8\uB2E4."
+  _CooldownTime: 15
+  _ActiveTime: 7
+  _Icon: {fileID: 21300000, guid: 30a4730299afcd74baa25ebb27c48893, type: 3}
+  _Prefab: {fileID: 5304819085488279642, guid: b66a61dd1ed59a14fb2c2f28de8f2f60, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72051ae65ffc540488ae6c09c1720fe7, type: 3}
+  m_Name: SkillDeck
+  m_EditorClassIdentifier: Assembly-CSharp::SkillDeck
+  _AllSkills:
+  - {fileID: 11400000, guid: 6bd1a5667c1a7f043b43435d08734eac, type: 2}
+  - {fileID: 11400000, guid: 92ee800117de0f74a89a07f698039a88, type: 2}
+  - {fileID: 11400000, guid: 0b0ba7e9f8a0610439c298d736b95ddf, type: 2}
+  - {fileID: 11400000, guid: 8a94dbb5e55596847b2a57f5d4808b8b, type: 2}
+  - {fileID: 11400000, guid: 0d1ed6140b689fa4a93731d800666967, type: 2}
+  - {fileID: 11400000, guid: 344e25b988e42614d9406b24f9c9dda2, type: 2}
+  - {fileID: 11400000, guid: 44450dd03487f4a44846ddc530a17c73, type: 2}
+  - {fileID: 11400000, guid: d1807806741df9b46a394d81e832bbaa, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3120a201733387f4fad6f75a3919731f, type: 3}
+  m_Name: Wave_SkillData
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  _ID: 98
+  _Name: Wave
+  _Description: "\uAD11\uBC94\uC704\uD55C \uC601\uC5ED\uC5D0 \uD68C\uC804\uD558\uB294
+    \uD30C\uB3D9\uC744 \uC18C\uD658\uD569\uB2C8\uB2E4."
+  _CooldownTime: 12
+  _ActiveTime: 7
+  _Icon: {fileID: 21300000, guid: bc7838d93b0870e45bbe014bc16c9d32, type: 3}
+  _Prefab: {fileID: 6441939137203092059, guid: 93b244efd4126da4fa5b670829b5bb4a, type: 3}

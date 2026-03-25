@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcca23a3b3f523b43afe7c94a297d987, type: 3}
+  m_Name: Gamepad_DualShock
+  m_EditorClassIdentifier: Assembly-CSharp::GamepadIcons
+  button_north: {fileID: 21300000, guid: 7eaaecea2692b5942b4eafe09906f0c4, type: 3}
+  button_east: {fileID: 21300000, guid: a7654b5ee1b49be499a4da1d6cd67d82, type: 3}
+  button_south: {fileID: 21300000, guid: e2b28624c8da206438e0e9eb81b184cf, type: 3}
+  button_west: {fileID: 21300000, guid: f550d00a30614324aa6718c03c5f978d, type: 3}
+  left_stick: {fileID: 21300000, guid: c0d42b0418cb6ee4fa2adbde2d644245, type: 3}
+  left_bumper: {fileID: 21300000, guid: 373924ed79da3c44195b771f442dbfc0, type: 3}
+  right_bumper: {fileID: 21300000, guid: c94c12820fd400b47ad80f427cbbe031, type: 3}
+  start_button: {fileID: 21300000, guid: 7d140fd01e6a0994493f6984af45baca, type: 3}
+  north_filled: {fileID: 21300000, guid: ef5a151fc0361b84ea05fda4b9c5bee3, type: 3}
+  east_filled: {fileID: 21300000, guid: 20fa7ca09694f354a87b84104728208d, type: 3}
+  south_filled: {fileID: 21300000, guid: e8a5d510a464177458712b25528a34f8, type: 3}
+  west_filled: {fileID: 21300000, guid: 661676b278030e34997a4a39f04bfdbe, type: 3}
